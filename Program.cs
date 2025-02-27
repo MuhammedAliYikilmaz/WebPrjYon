@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("MERHABA !");
+            Bu satır github.com üzerinde değiştirildi.
         }
     }
 }
